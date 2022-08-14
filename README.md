@@ -1,5 +1,8 @@
+#Live link:-
+https://e-dashboard1.herokuapp.com/
 #Tutorial Video :-
 https://www.loom.com/share/e8d097ff1dd04aeda539e78f81abab30
+
 #TechStack used- HTML,CSS,JAVASCRIPT,REACTJS AND REDUX,NODEJS,EXPRESSJS,JSON-WEB-TOKEN,STRIPE,MONGODB AND MONGOOSE 
 
 #ScreenShots->![image](https://user-images.githubusercontent.com/108413276/184545968-8d89e977-335f-48e2-ac35-174026f778fc.png)
