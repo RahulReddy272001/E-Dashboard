@@ -15,8 +15,8 @@ const SignUp = () => {
   })
 
   const handleClick = async () => {
-    console.warn(name, email, password)
-    let result = await fetch("http://localhost:5000/register", {
+
+    let result = await fetch("/register", {
       method: "post",
       body: JSON.stringify({ name, email, password }),
       headers: {
@@ -24,7 +24,7 @@ const SignUp = () => {
       }
     })
     result = await result.json()
-    console.warn(result)
+
 
 
     localStorage.setItem("user", JSON.stringify(result.result))
