@@ -19,6 +19,7 @@ const Productlist = () => {
     setProducts(result);
   }
 
+
   const deleteProduct = async (id) => {
     let result = await fetch(`/product/${id}`, {
       method: "Delete",
