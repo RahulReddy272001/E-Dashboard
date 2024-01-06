@@ -1,5 +1,3 @@
-#Live link:-
-https://e-dashboard1.herokuapp.com/
 
 #Tutorial Video :-
 https://www.loom.com/share/e8d097ff1dd04aeda539e78f81abab30
